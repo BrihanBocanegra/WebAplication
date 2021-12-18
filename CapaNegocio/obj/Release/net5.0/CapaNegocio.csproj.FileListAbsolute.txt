@@ -1,0 +1,17 @@
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaNegocio.deps.json
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaNegocio.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\ref\CapaNegocio.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaNegocio.pdb
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaDatos.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaEntidad.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaDatos.pdb
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\bin\Release\net5.0\CapaEntidad.pdb
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\ref\CapaNegocio.dll
+C:\Users\Brihan\source\repos\WebApp2021\CapaNegocio\obj\Release\net5.0\CapaNegocio.pdb
